@@ -1,7 +1,8 @@
-body {
+ ,body {
   color: white;
   background: black;
   margin: 0px;
+   font-family: "Josefin Sans", sans-serif;
 }
 header {
   border-botton: solid 2px #15a5e3;
